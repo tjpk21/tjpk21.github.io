@@ -1,6 +1,7 @@
 /* Site settings */
 body {background-color:#ffffff;margin:0px;font-family:Arial,sans-serif;font-size:13px;font-weight:normal;font-style:normal;text-decoration:none;text-rendering:optimizeLegibility;font-feature-settings:'kern', 'liga' 0, 'clig' 0, 'calt' 0;color:#000000;letter-spacing:0em;-webkit-print-color-adjust:exact;}
-a:link {color:inherit; cursor:pointer; text-decoration: none;}
+a {text-decoration:underline;}
+a:link {color:inherit; cursor:pointer;}
 a:visited {color:inherit;}
 a:hover {color:#A8A8B3;}
 a * {color:inherit;text-decoration:underline;}
@@ -58,12 +59,4 @@ a:active .xr_ro {opacity:0;}
 .xr_nb1 {position: relative;}
 .xr_nb1:after {content: ''; position: absolute; top: 50%; right: .5em; height: 0px; width: 0px; border: 5px solid transparent; margin-top: -5px; margin-right: -3px; border-color: transparent; border-left-color: inherit;}
 .xr_apb {display:block; position:absolute;}
-.xr_bgb0 {background:url('40.png') -768px 1499px repeat;}
-.xr_bgb1 {background:url('40.png') -768px 1505px repeat;}
-.xr_bgb2 {background:url('40.png') -768px 1515px repeat;}
 .xr_bgb3 {background:url('40.png') -768px 1520px repeat;}
-.xr_bgb4 {background:url('40.png') -768px 1506px repeat;}
-.xr_bgb5 {background:url('40.png') -768px 1525px repeat;}
-.xr_bgb6 {background:url('40.png') -768px 1522px repeat;}
-.xr_bgb7 {background:url('40.png') -768px 1736px repeat;}
-.xr_bgb8 {background:url('40.png') -768px 1736px repeat;}
